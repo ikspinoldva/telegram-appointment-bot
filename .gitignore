@@ -1,0 +1,13 @@
+appointment.db
+**/.DS_Store
+.idea/
+**/__pycache__
+*.log
+*.pickle
+*.pid
+*.out
+.ipynb_checkpoints
+env/
+test.py
+private_data.py
+refactoring.odt
